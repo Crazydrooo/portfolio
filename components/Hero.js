@@ -12,7 +12,7 @@ const Hero = ({ text, handleClick }, ref) => {
     >
       <section className="flex flex-col items-center justify-center text-center">
         <h1 className="text-3xl font-bold leading-tight lg:text-5xl">
-          HI, <span className="text-green-700">I'M SHAHIL</span>.
+          HI, <span className="text-green-700">I&apos;M SHAHIL</span>.
         </h1>
         <h2 className="text-3xl font-semibold my-4 lg:text-5xl">
           <span className="text-green-700">A</span> FRONTEND DEVELOPER
@@ -32,7 +32,7 @@ const Hero = ({ text, handleClick }, ref) => {
         </p>
 
         <p className="text-lg lg:text-xl px-4">
-          I'm a Front-End Developer skilled in working with a variety of
+          I&apos;m a Front-End Developer skilled in working with a variety of
           <span className="text-green-700 font-medium"> TECHNOLOGIES</span>,
           <span className="text-green-700 font-medium"> PLATFORMS</span>, and
           <span className="text-green-700 font-medium"> TOOLS</span> to create
